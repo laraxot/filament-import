@@ -32,8 +32,8 @@
   "require-dev": {
     "laravel/pint": "^1.11",
     "nunomaduro/collision": "^6.4|^7.0",
-    "nunomaduro/larastan": "^2.6.4",
-    "orchestra/testbench": "^8.8",
+    "larastan/larastan": "*",
+    "orchestra/testbench": "*",
     "pestphp/pest": "^2",
     "pestphp/pest-plugin-laravel": "^2",
     "pestphp/pest-plugin-livewire": "^2.1",
