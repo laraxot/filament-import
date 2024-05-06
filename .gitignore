@@ -3,3 +3,4 @@
 
 build/
 .idea/
+.git-blame-ignore-revs
